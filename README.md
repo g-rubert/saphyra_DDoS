@@ -1,1 +1,1 @@
-Usage: python saphyra.py http://example.com
+python saphyra.py http://example.com
